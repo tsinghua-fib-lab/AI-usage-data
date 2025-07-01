@@ -1,1 +1,1 @@
-Folder for finetuned models.
+Folder for finetuned models. Download at https://zenodo.org/records/15779091.
